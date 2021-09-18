@@ -1,0 +1,14 @@
+.footer{
+    margin-top: 40px;
+    background-color: rgb(219, 209, 209);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    font-size: 1rem;
+    padding: 10px;
+}
+.icon:hover{
+    opacity: 70%;
+}

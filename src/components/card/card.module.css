@@ -1,0 +1,30 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 3px 4px 5px rgb(212, 203, 203);
+    border-radius: 10px;
+}
+.item{
+    background-color: #fff;
+    border: #fff;
+    border-radius: 10px;
+}
+
+.title{
+    background-color: #fff;
+    margin: 10px;
+}
+.button{
+    cursor: pointer;
+    background-color: rgb(133, 121, 202);
+    margin: 10px;
+    font-family: roboto;
+    padding: 3px;
+    border-radius: 5px;
+    color: #fff;
+}
+.button:hover{
+    color: aliceblue;
+}

@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Roboto;
+}
+.header{
+    display: flex;
+    position: sticky;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+}
+.title{
+    background-color: rgb(219, 209, 209);
+    color: rgb(0, 0, 0);
+    font-family: Roboto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 10px;
+}
